@@ -1,0 +1,5 @@
+name: ocr_app_workspace
+environment:
+  sdk: ^3.10.0
+workspace:
+  - apps/ocr_app
