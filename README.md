@@ -1,6 +1,6 @@
-# OCR App Project Documentation
+# Boylerplate Project Documentation
 
-Welcome to the **OCR App** project! This documentation is designed to help new developers (and interns!) understand the project structure, the architectural patterns used, and how to work within our monorepo setup.
+Welcome to the **Boylarplate** project! This documentation is designed to help new developers (and interns!) understand the project structure, the architectural patterns used, and how to work within our monorepo setup.
 
 ---
 
